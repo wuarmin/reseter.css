@@ -77,7 +77,7 @@ Create A HTML File
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Testing Reseter.css</title>
 	</head>
-<body>
+        <body>
 		<h1>This Is The Biggest Heading</h1>
 		<h2>This Is A Slightly Smaller Heading</h2>
 		<h3>This Is A Slightly Smaller Heading</h3>
